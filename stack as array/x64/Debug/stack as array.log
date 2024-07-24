@@ -1,0 +1,3 @@
+﻿  stack as array.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h(2361,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h(2361,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

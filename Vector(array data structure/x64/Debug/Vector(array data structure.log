@@ -1,0 +1,6 @@
+﻿  Vector(array data structure.cpp
+C:\Users\DAR-F\Desktop\Vector(array data structure\Vector(array data structure.cpp(51,25): error C2248: 'vector::vector': cannot access private member declared in class 'vector'
+C:\Users\DAR-F\Desktop\Vector(array data structure\Vector(array data structure.cpp(12,2): message : see declaration of 'vector::vector'
+C:\Users\DAR-F\Desktop\Vector(array data structure\Vector(array data structure.cpp(7,7): message : see declaration of 'vector'
+C:\Users\DAR-F\Desktop\Vector(array data structure\Vector(array data structure.cpp(52,8): error C2059: syntax error: '.'
+C:\Users\DAR-F\Desktop\Vector(array data structure\Vector(array data structure.cpp(53,8): error C2059: syntax error: '.'
