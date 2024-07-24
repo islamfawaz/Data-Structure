@@ -1,0 +1,5 @@
+﻿  DoubleLinkedIist.cpp
+C:\Users\DAR-F\Desktop\DoubleLinkedIist\DoubleLinkedIist.cpp(68,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DAR-F\Desktop\DoubleLinkedIist\DoubleLinkedIist.cpp(134,10): error C2039: 'toSringRE': is not a member of 'LinkedList'
+C:\Users\DAR-F\Desktop\DoubleLinkedIist\DoubleLinkedIist.cpp(21,8): message : see declaration of 'LinkedList'
+C:\Users\DAR-F\Desktop\DoubleLinkedIist\DoubleLinkedIist.cpp(137,1): error C2143: syntax error: missing ';' before '}'

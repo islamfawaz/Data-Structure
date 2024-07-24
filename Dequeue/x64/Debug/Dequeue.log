@@ -1,0 +1,36 @@
+﻿  Dequeue.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(680,47): error C2440: 'initializing': cannot convert from 'initializer list' to '_Objty'
+          with
+          [
+              _Objty=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(680,47): message : The initializer contains too many elements
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\deque(1148,1): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>&,_Ty>(_Alloc &,_Objty *const ,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &,_Ty &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<char>,
+              _Ty=char,
+              _Objty=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\deque(1159,32): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>&,_Ty>(_Alloc &,_Objty *const ,std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &,_Ty &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<char>,
+              _Ty=char,
+              _Objty=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\deque(856,1): message : see reference to function template instantiation 'void std::deque<char,std::allocator<char>>::_Emplace_back_internal<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>&,_Ty>(std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &,_Ty &&)' being compiled
+          with
+          [
+              _Ty=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\deque(858,31): message : see reference to function template instantiation 'void std::deque<char,std::allocator<char>>::_Emplace_back_internal<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>&,_Ty>(std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &,_Ty &&)' being compiled
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\DAR-F\Desktop\Dequeue\Dequeue.cpp(16,24): message : see reference to function template instantiation 'void std::deque<char,std::allocator<char>>::emplace_back<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>&,char>(std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>> &,char &&)' being compiled
+          with
+          [
+              _Ty=char
+          ]
